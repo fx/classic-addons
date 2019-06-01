@@ -1,0 +1,6 @@
+[submodule "QuestieDev"]
+	path = QuestieDev-QuestieClassic
+	url = https://github.com/AeroScripts/QuestieDev.git
+[submodule "AbarClassic"]
+	path = AbarClassic
+	url = https://github.com/boxto/AbarClassic.git

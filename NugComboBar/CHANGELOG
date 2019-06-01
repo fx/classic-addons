@@ -1,0 +1,5 @@
+### 8.2-classic2
+
+- glowPurple preset now works like on live
+- previous temporary preset was renamed to glowLifestealStatic
+- removed all unused setup code for classes other than rogues and druids

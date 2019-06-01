@@ -1,0 +1,10 @@
+## Interface: 11302
+## Title: NugComboBar
+## Notes: Combopoints counter
+## Author: d87
+## SavedVariablesPerCharacter: NugComboBarDB_Character
+## SavedVariables: NugComboBarDB_Global
+## Version: 8.2-classic2
+
+NugComboBar.lua
+skin.lua
